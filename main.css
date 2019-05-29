@@ -119,7 +119,7 @@ h1, h3 {
 }
 
 .position {
-  color:#2eca7f;
+  color:#8B0000;
   font-weight:normal;
 }
 
@@ -143,7 +143,7 @@ h1, h3 {
 }
 
 .social a:hover {
-  color:#2eca7f;
+  color:#8B0000;
 }
 
 .heading:first-child {
@@ -199,4 +199,10 @@ section.info p {
 
 .css3 {
   color: rgb(33, 68, 224);
+}
+
+.info1 {
+  display:flex;
+  align-items:center;
+  margin:5px 0;
 }
